@@ -12,6 +12,29 @@
   preview={brownian-motion.gif}
 }
 
+
+
+@inproceedings{10.1145/3640537.3641580,
+author = {VenkataKeerthy, S. and Jain, Siddharth and Kalvakuntla, Umesh and Gorantla, Pranav Sai and Chitale, Rajiv Shailesh and Brevdo, Eugene and Cohen, Albert and Trofin, Mircea and Upadrasta, Ramakrishna},
+title = {The Next 700 ML-Enabled Compiler Optimizations},
+year = {2024},
+isbn = {9798400705076},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3640537.3641580},
+html = {https://dl.acm.org/doi/epdf/10.1145/3640537.3641580},
+pdf = {https://dl.acm.org/doi/pdf/10.1145/3640537.3641580},
+doi = {10.1145/3640537.3641580},
+abstract = {There is a growing interest in enhancing compiler optimizations with ML models, yet interactions between compilers and ML frameworks remain challenging. Some optimizations require tightly coupled models and compiler internals, raising issues with modularity, performance and framework independence. Practical deployment and transparency for the end-user are also important concerns. We propose ML-Compiler-Bridge to enable ML model development within a traditional Python framework while making end-to-end integration with an optimizing compiler possible and efficient. We evaluate it on both research and production use cases, for training and inference, over several optimization problems, multiple compilers and its versions, and gym infrastructures.},
+booktitle = {Proceedings of the 33rd ACM SIGPLAN International Conference on Compiler Construction},
+pages = {238–249},
+numpages = {12},
+keywords = {Machine Learning for Compiler Optimizations, ONNX, Pipes, TensorFlow AOT, gRPC},
+location = {<conf-loc>, <city>Edinburgh</city>, <country>United Kingdom</country>, </conf-loc>},
+series = {CC 2024},
+selected={true}
+}
+
 @inproceedings{10.1145/3578360.3580273,
   author = {VenkataKeerthy, S. and Jain, Siddharth and Kundu, Anilava and Aggarwal, Rohit and Cohen, Albert and Upadrasta, Ramakrishna},
   title = {RL4ReAl: Reinforcement Learning for Register Allocation},
@@ -21,7 +44,7 @@
   address = {New York, NY, USA},
   url = {https://doi.org/10.1145/3578360.3580273},
   html={https://dl.acm.org/doi/epdf/10.1145/3578360.3580273},
-  pdf={Siddharth_CV_PMRF_latest.pdf},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3578360.3580273},
   doi = {10.1145/3578360.3580273},
   abstract = {We aim to automate decades of research and experience in register allocation, leveraging machine learning. We tackle this problem by embedding a multi-agent reinforcement learning algorithm within LLVM, training it with the state of the art techniques. We formalize the constraints that precisely define the problem for a given instruction-set architecture, while ensuring that the generated code preserves semantic correctness. We also develop a gRPC based framework providing a modular and efficient compiler interface for training and inference. Our approach is architecture independent: we show experimental results targeting Intel x86 and ARM AArch64. Our results match or out-perform the heavily tuned, production-grade register allocators of LLVM.},
   booktitle = {Proceedings of the 32nd ACM SIGPLAN International Conference on Compiler Construction},
@@ -32,7 +55,6 @@
   series = {CC 2023},
   selected={true}
 }
-
 
 @article{einstein1950meaning,
   abbr={AJP},
