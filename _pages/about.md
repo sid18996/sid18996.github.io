@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Student</a> at CSE department, IIT Hyderabad
+subtitle: # <a href='#'>PhD Student</a> at CSE department, IIT Hyderabad
 
 profile:
   align: right
@@ -16,10 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>I am a PhD student at CSE department, IIT Hyderabad.</p>
+<p>I am a PhD student and PMRF Fellow at Computer Science and Engeneering Department, Indian Institute of Technology Hyderabad.</p>
 
 <p>
-  My research interests are in the intersection of Compilers and Machine Learning. Currently I am working on Compiler Optimizations powered by ML/RL techniques.
+  My research interests are in the intersection of Compilers and Machine Learning. Currently I am working on Program Representation and Compiler Optimizations powered by ML/RL techniques.
 </p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

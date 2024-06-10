@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Siddharth Jain",
-    "label": "PhD Scholar",
+    "label": "PhD Scholar at IITH",
     "image": "",
     "email": "cs23resch11005@iith.ac.in",
-    "phone": "(+91) 9516638888",
+    "phone": "",
     "url": "",
     "summary": "",
     "location": {
@@ -22,6 +22,54 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Hyderabad, India",
+      "url": "",
+      "area": "Compiler Optimizations using Machine Learning",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Technology, Hyderabad, India",
+      "url": "",
+      "area": "Compiler Optimizations using Machine Learning",
+      "studyType": "MTech",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "9.57/10",
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Information Technology, Vadodara, India",
+      "url": "",
+      "area": "Computer Science and Engineering",
+      "studyType": "BTech",
+      "startDate": "2015",
+      "endDate": "2019",
+      "score": "8.79/10",
+      "courses": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Next 700 ML-Enabled Compiler Optimizations",
+      "publisher": "International Conference on Compiler Construction 2024",
+      "releaseDate": "2024-02-20",
+      "url": "https://dl.acm.org/doi/10.1145/3640537.3641580",
+      "summary": "Authors: S. VenkataKeerthy, Siddharth Jain, U. Kalvakuntla, P. S. Gorantla, R. S. Chitale, E. Brevdo, A. Cohen, M. Trofin, R. Upadrasta"
+    },
+    {
+      "name": "RL4ReAl: Reinforcement Learning for Register Allocation",
+      "publisher": "International Conference on Compiler Construction 2023",
+      "releaseDate": "2023-02-17",
+      "url": "https://dl.acm.org/doi/10.1145/3578360.3580273",
+      "summary": "Authors: S. VenkataKeerthy, Siddharth Jain, A. Kundu, R. Aggarwal, A. Cohen, and R. Upadrasta"
+    }
+  ],
   "work": [
     {
       "name": "Maximl Labs",
@@ -39,7 +87,7 @@
       "position": "Software Developer Intern",
       "url": "",
       "startDate": "2019-01-01",
-      "endDate": "2020-06-05",
+      "endDate": "2019-06-05",
       "summary": "Worked on developing algorithmic solutions for resource-leveling problems in turnaround operations in large-scale industries"
       // "highlights": [
       //   "Relativity"
@@ -50,46 +98,14 @@
       "position": "Research Intern",
       "url": "",
       "startDate": "2018-05-01",
-      "endDate": "2020-07-05",
+      "endDate": "2018-07-05",
       "summary": "Worked on extraction and summarization of patients’ data from the medical reports using NLP techniques."
       // "highlights": [
       //   "Relativity"
       // ]
     }
   ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Indian Institute of Technology, Hyderabad, India",
-      "url": "https://www.iith.ac.in/",
-      "area": "Compiler Optimizations using Machine Learning",
-      "studyType": "PhD",
-      "startDate": "2023",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Indian Institute of Technology, Hyderabad, India",
-      "url": "https://www.iith.ac.in/",
-      "area": "Compiler Optimizations using Machine Learning",
-      "studyType": "MTech",
-      "startDate": "2020",
-      "endDate": "2023",
-      "score": "9.57/10",
-      "courses": []
-    },
-    {
-      "institution": "Indian Institute of Information Technology, Vadodara, India",
-      "url": "https://iiitvadodara.ac.in/",
-      "area": "Computer Science and Engineering",
-      "studyType": "BTech",
-      "startDate": "2015",
-      "endDate": "2019",
-      "score": "8.79/10",
-      "courses": []
-    }
-  ],
+  "volunteer": [],  
   "awards": [{
     "title": "Kesav Nori Research Excellence Award",
     "awarder": "",
@@ -102,23 +118,7 @@
     "summary": "Received prestigious Prime Minister’s Research Fellowship",
     "date": "2023-10-26"
   }],
-  "certificates": [],
-  "publications": [
-    {
-      "name": "The Next 700 ML-Enabled Compiler Optimizations",
-      "publisher": "International Conference on Compiler Construction 2024",
-      "releaseDate": "2024-02-20",
-      "url" : "https://dl.acm.org/doi/10.1145/3640537.3641580",
-      "summary": "Authors: S. VenkataKeerthy, Siddharth Jain, U. Kalvakuntla, P. S. Gorantla, R. S. Chitale, E. Brevdo, A. Cohen, M. Trofin, R. Upadrasta"
-    },
-    {
-      "name": "RL4ReAl: Reinforcement Learning for Register Allocation",
-      "publisher": "International Conference on Compiler Construction 2023",
-      "releaseDate": "2023-02-17",
-      "url": "https://dl.acm.org/doi/10.1145/3578360.3580273",
-      "summary": "Authors: S. VenkataKeerthy, Siddharth Jain, A. Kundu, R. Aggarwal, A. Cohen, and R. Upadrasta"
-    }
-  ],
+  "certificates": [],  
   "skills": [],
   "languages": [
     {
